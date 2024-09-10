@@ -2,13 +2,13 @@
 layout: home
 sidebar: false
 
-title: Karl's Blog
+title: KarlsBlog
 titleTemplate: 记录回忆，知识和畅想的地方
 
 hero:
-  name: Karl's Blog
+  name: KarlsBlog
   text: 记录回忆，知识和畅想的地方
-  tagline: 以 Karl's Blog 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  tagline: 以 KarlsBlog 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
   image:
     src: /logo.svg
     alt: Vitest
