@@ -11,3 +11,4 @@ share: true
 
 测试在群晖中的效果
 
+![test](https:pic.karlsapple.work/2/2.jpg)
